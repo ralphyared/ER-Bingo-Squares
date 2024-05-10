@@ -1,3 +1,9 @@
+// Square counts for each difficulty level
+export const earlyCount = 10;
+export const midCount = 15;
+export const lateCount = 0;
+
+// Early game squares
 export const early = [
   { name: "Defeat 2 dungeon bosses in Weeping Peninsula" },
   { name: "Acquire a +8 non somber weapon" },
@@ -27,3 +33,28 @@ export const early = [
   },
   { name: "Memory of grace with 30k runes" },
 ];
+
+// Mid game squares
+export const mid = [
+  { name: "Acquire the Comet Azur spell" },
+  { name: "Reach rune level 40" },
+  { name: "Get parried" },
+  { name: "Enter Leyndell" },
+  { name: "Kill a Godskin boss" },
+  { name: "Acquire a +9 somber weapon" },
+  { name: "Acquire the Serpent-Hunter" },
+  { name: "Equip 3 talismans" },
+  { name: "Defeat 4 NPC invaders" },
+  { name: "Rest at a site of grace in the Subterranean Shunning grounds" },
+  { name: "Kill any Dragonbarrow boss" },
+  { name: "Defeat a bellbearing hunter" },
+  { name: "Kill Goldfrey" },
+  { name: "Activate a great rune using a rune arc" },
+  { name: "GILF Respec time" },
+  { name: "Defeat the Omen Killer in the village of the Albinaurics" },
+  { name: "Kill Renala after she summons all 4 of her summons" },
+  { name: "Kill Margit in Altus Plateau" },
+];
+
+// Late game squares
+export const late = [{ name: "Late game square" }];

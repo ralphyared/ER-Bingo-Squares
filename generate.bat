@@ -1,2 +1,2 @@
 @echo off
-node src/rando|clip
+node src/app|clip
