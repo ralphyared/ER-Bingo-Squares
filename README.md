@@ -22,4 +22,4 @@ Remove what you want removed, and follow this specific convention `{ name: "Squa
 
 ### Generate
 
-To generate a bingo board, simple double click the `generate.bat` batch file, and the board will be automatically generated and copied to your clipboard! Simply paste the content into a new "Game: Custom (Advanced)" room in the "Board" section on [bingosync](bingosync.com) and enjoy!
+To generate a bingo board, simple double click the `generate.bat` batch file, and the board will be automatically generated and copied to your clipboard! Simply paste the content into a new "Game: Custom (Advanced)" room in the "Board" section on [bingosync.com](https://bingosync.com/) and enjoy!
