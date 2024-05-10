@@ -6,17 +6,17 @@ Everything you need for configuring your board generator is in the **config.js**
 
 - To select how many of each game stage _(early, mid, or late)_ squares you want in your board, simply edit the respective "**count**" constants of each game stage shown below.
 
-  export const earlyCount = 10;
-  export const midCount = 10;
-  export const lateCount = 5;
+      export const earlyCount = 10;
+      export const midCount = 10;
+      export const lateCount = 5;
 
 > Remember, each board must add up to a total of **25** squares!
 
 - To edit the squares themselves, work inside the respective arrays shown below:
 
-  export const early = [...]
-  export const mid = [...]
-  export const late = [...]
+      export const early = [...]
+      export const mid = [...]
+      export const late = [...]
 
 Remove what you want removed, and follow this specific convention `{ name: "Square description here!" },` to add squares.
 
